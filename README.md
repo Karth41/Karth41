@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karthik Balasubramanian (@Karth41)
 - 👀 I’m interested in working with large datasets and making a positive impact. (Very cliché!) 
-- 🌱 I’m currently pursuing my masters at Imperial College London in MSc Health Data Analytics and Machine Learning.
+- 🌱 I’ve completed my masters at Imperial College London in MSc Health Data Analytics and Machine Learning and currently working 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
